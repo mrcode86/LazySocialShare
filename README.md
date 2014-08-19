@@ -1,0 +1,4 @@
+LazySocialShare
+===============
+
+Lazyload share buttons
