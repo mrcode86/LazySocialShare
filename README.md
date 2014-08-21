@@ -11,6 +11,6 @@ How to use:
 
 
 Example:
-<ul data-href="www.google.com" class="LazySocialShare">
+´<ul data-href="www.google.com" class="LazySocialShare">
     <li class="LazyFacebook"></li>
-</ul>
+</ul>´
