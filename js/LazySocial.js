@@ -2,7 +2,7 @@
     LanguageIso: "en_GB",
 
     Start: function () {
-        var Lists = jQuery("ul.LazySocialShare");
+        var Lists = jQuery(".LazySocialShare");
 
         if (Lists.length) {
             Lists.on("mouseover", function () {
